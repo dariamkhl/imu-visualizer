@@ -1,2 +1,2 @@
 # imu-visualizer
-![Принципова схема](docs/schematics.png)
+![Принципова схема](docs/schematic.png)
